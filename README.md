@@ -1,1 +1,3 @@
 # hello-world
+
+Just trying to learn this stuff so I can make a game page...
